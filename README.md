@@ -27,3 +27,9 @@
 ## 🔥✨Apaixonado por tecnologia, 🧑‍💻<br> 🔥✨Cursando ADS 1° período, atualmente com foco no desenvolvimento front-end 📚
 
 ##  🔥✨Tenho conhecimentos em HTML5 | CSS3 E atualmente estou estudando JAVASCRIPT 📕
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+</div>
+
