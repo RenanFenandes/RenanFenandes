@@ -4,7 +4,9 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/renanfernandess/)
 
-![Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanFernandes&show_icons=true&theme=cobalt)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanFernandes&theme=codeSTACKr&show_icons=true) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/RenanFenandes/Consulta-CEP)
 
 
 ## Tecnologias que eu uso no meu dia 
