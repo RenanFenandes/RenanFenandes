@@ -5,8 +5,8 @@
 )](https://www.linkedin.com/in/renanfernandess/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanFernandes&theme=codeSTACKr&show_icons=true) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/RenanFenandes/Consulta-CEP)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanFernandes&theme=codeSTACKr&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFernandes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia 
